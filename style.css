@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@200;300;400;500;600;700;800&display=swap");
+
+* {
+  font-family: "Changa", sans-serif;
+}
+
+.first_section {
+  background: url(/img/loopholelink-main-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+
+.inner_first_section {
+  margin: auto;
+}
+
+.section_four {
+  background: url(/img/ABCmain2Grain.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
